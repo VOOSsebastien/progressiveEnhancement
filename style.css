@@ -49,6 +49,54 @@ a:link {
     padding: 30px;
 
   }
+  .farmer{
+    border-left-style:solid;
+    border-left-color: yellow;
+  }
+  p{
+    font-weight: bold;
+  }
+  
+  .villager{
+    border-left-style: solid;
+    border-left-color: red;
+
+  }
+  
+  header > h1{
+    background-color: yellow;
+  }
+  .good{
+    text-transform: capitalize;
+    text-transform: uppercase;
+    color: green;
+  }
+  .bad{
+    text-transform: uppercase;
+    color: red;
+  }
+  tr.d0 td {
+    background-color: blue;
+
+  }
+  tr.d1 td{
+    background-color: greenyellow;
+
+  }
+  tr.d2 td {
+    background-color: blue;
+  }
+  tr.d3 td {
+    background-color:greenyellow;
+
+
+  }
+  tr.d4 td {
+    background-color: blue;
+
+
+  }
+  
   /*
  q{
     width: 50%;

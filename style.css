@@ -1,1 +1,66 @@
+body {
+    font-family: serif;
+    word-spacing:15px;
+    font-size:110% ;
+    max-width:90%;
+    margin:auto;  
+    /*
+    background-image: url("fermier-chinois.jpg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+    */
+    margin:auto;
+
+}
+html{
+    color:darkviolet;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+}
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  /* visited link */
+  a:visited {
+    color:gold;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  blockquote{
+      margin-top: 80px;
+      margin-bottom: 80px;
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 160%;
+    font-style: italic;
+    background-color:rgba(176, 175, 175, 0.903);
+    border-left:3px;
+    padding: 30px;
+
+  }
+  /*
+ q{
+    width: 50%;
+    margin:auto;
+    font-size: 160%;
+    font-style: italic;
+    text-align: center;
+    background-color:rgba(176, 175, 175, 0.903);
+    border-left:3px;
+    padding: 30px;
+
+}
+*/
+
 

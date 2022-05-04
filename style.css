@@ -96,6 +96,23 @@ a:link {
 
 
   }
+  img{
+    float:left;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+  }
+  .notification{
+    background:#FFFFDD;
+    padding:.5rem 1rem;
+    border:3px solid #DDDDCC;
+    width:150px;
+    font-weight:bold;
+    color: #333300;
+    position: sticky;
+    top:150px;
+    left:90%;
+  }
   
   /*
  q{
